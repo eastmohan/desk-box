@@ -1,0 +1,7 @@
+ESP32 WROOM.step - https://grabcad.com/library/38-pin-esp32-wroom-esp-32d-development-kit-1 - Nelson Stoldt on GrabCAD
+MAX98357A_3W_I2S_AMP v27.step - https://grabcad.com/library/max98357a-3w-i2s-amplifier-1 - David Scambell on GrabCAD
+EC11 Rotary Encoder Dode Switch-15mm .STEP - https://grabcad.com/library/ec11-rotary-encoder-dode-switch-15mm-1 - xindela on GrabCAD
+Display_OLED_0.96_128x64.step - https://grabcad.com/library/display-oled-0-96-128x64-i2c-1 - Espen Anderson on GrabCAD
+4 Ohm 3 W Speaker.x_t - https://grabcad.com/library/4-ohm-3-w-speaker-1 - MRMS - WORKSHOP on GrabCAD
+irlz44n.stp - https://grabcad.com/library/irlz44n-1 - Maurice on GrabCAD
+resistor-0-25w-2.snapshot.7 - https://grabcad.com/library/resistor-0-25w-2 - kourosh khafajeh on GrabCAD
