@@ -5,3 +5,10 @@ Display_OLED_0.96_128x64.step - https://grabcad.com/library/display-oled-0-96-12
 4 Ohm 3 W Speaker.x_t - https://grabcad.com/library/4-ohm-3-w-speaker-1 - MRMS - WORKSHOP on GrabCAD
 irlz44n.stp - https://grabcad.com/library/irlz44n-1 - Maurice on GrabCAD
 resistor-0-25w-2.snapshot.7 - https://grabcad.com/library/resistor-0-25w-2 - kourosh khafajeh on GrabCAD
+Con_5.5_Assembly.stp - https://grabcad.com/library/dc-099-5-5mm-connector-1 - Lars K on GrabCAD
+HW-411.STEP - https://grabcad.com/library/dc-dc-lm2596-3a-step-down-converter-module-1 - Aleksey Zabloskiy on GrabCAD
+5807 HUSB238 Breakout.step - https://github.com/adafruit/Adafruit_CAD_Parts/blob/main/5807%20HUSB238%20Breakout/5807%20HUSB238%20Breakout.step - Adafruit GitHub
+pin-header-male-2-54mm-different-pin-numbers-1.snapshot.2 - https://grabcad.com/library/pin-header-male-2-54mm-different-pin-numbers-1 - Michael Graf on GrabCAD
+pin-header-female-2-54mm-different-pin-numbers-1.snapshot.4 - https://grabcad.com/library/pin-header-female-2-54mm-different-pin-numbers-1 - Michael Graf on GrabCAD
+HEX Spacer M3x10+6.stp - https://grabcad.com/library/abstandshalter-m3-pcb-1 - Lars K on GrabCAD
+m3-screws-3.snapshot.3 - https://grabcad.com/library/m3-screw-6 - taha hdp on GrabCAD
